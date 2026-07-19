@@ -110,11 +110,13 @@ Full filtered dataset viewer plus one-click downloads: filtered CSV, full synthe
 ```
 ├── app.py                 # Streamlit dashboard (UI, tabs, charts, filters)
 ├── data_generator.py      # Synthetic data generator, thresholds, outbreak events, map layout
+├── requirements.txt       # Python dependencies
 └── README.md              # This file
 ```
 
 ## 5. Running the App
 
 ```bash
+pip install -r requirements.txt
 streamlit run app.py
 ```
