@@ -4,6 +4,13 @@
 
 An early-warning wastewater-based epidemiology (WBE) system that monitors synthetic campus wastewater samples across two campuses, flags outbreaks and sanitation failures before they show up in clinical records, and forecasts near-term risk — built as an interactive Streamlit dashboard.
 
+
+## 🌐 Live Demo
+
+🚀 **Try the deployed application here:**
+
+**https://campus-wastewater-health-alert-dashboard-c5sj6kir8ysacdcczvj83.streamlit.app/**
+
 ---
 
 ## 1. Technology Stack
